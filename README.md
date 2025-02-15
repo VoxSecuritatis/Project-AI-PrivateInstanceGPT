@@ -1,5 +1,5 @@
 # Project:  Private Instance GPT
-### Date:  2024-10-14
+Date:  2024-10-14
 
 <h2>Description</h2>
 This project aims to build a self-hosted AI environment capable of running large language models (LLMs) and generating AI-powered images without relying on cloud-based services. By leveraging Windows Subsystem for Linux (WSL) and Ubuntu 24.x, the system provides a flexible and efficient foundation for deploying various AI models locally. Ollama GPT serves as the core AI framework, enabling natural language processing and text-based AI interactions. A selection of specialized LLMs, including llama2, codegemma, llava, and Mistral 7b, will be installed to provide diverse capabilities such as general language understanding, coding assistance, and image analysis. Additionally, Stable Diffusion will be integrated to facilitate AI-generated art, allowing users to create high-quality images from text prompts. To streamline usability, Docker will be employed to containerize the applications, and Open Web UI will serve as an intuitive frontend, providing seamless interaction with AI models. With this setup, the project aims to deliver a powerful, privacy-focused, and locally controlled AI system that supports both text and image-based AI functionalities.
@@ -39,10 +39,6 @@ This project aims to build a self-hosted AI environment capable of running large
   <li>Install Stable Diffusion (for AI-generated art)</li>
   <li>Integration of GPT, LLMs, and Stable Diffusion</li>
 </ol>
-
-
-
-
 
 <h2>Project walk-through:</h2>
 <p align="center">
