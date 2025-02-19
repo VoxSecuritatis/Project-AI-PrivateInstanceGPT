@@ -15,7 +15,7 @@ This project aims to build a self-hosted AI environment capable of running large
 <li>Ollama GPT</li>
 <li>llama2 (foundational model)</li>
 <li>codegemma (for development / coding model)</li>
-<li>llava (image analysis></li>
+<li>llava (image analysis)</li>
 <li>Mistral 7B (founational model)</li></ul>
 
 <h2>Environments Used</h2>
